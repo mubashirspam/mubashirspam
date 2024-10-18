@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mubashir Ahmed
-- 🌱 I’m currently learning flutter 
+- 🌱 Lead flutter developer
 - 📫 get me ->  @getmemubashir@gmail.com
 
 <!---
