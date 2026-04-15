@@ -55,34 +55,6 @@
 
 ---
 
-## 🏆 Key Projects
-
-### 🔹 Telios Survey System
-- Flutter (Mobile + Web) + Admin Panel
-- GeoJSON-based data handling
-- Offline-first architecture
-- Role-based access system
-
-### 🔹 Multimedia Publishing Platform
-- 500+ authors publishing content
-- Real-time video/audio (ZEGOCLOUD)
-- Stripe payment integration ($10K+ processed)
-
-### 🔹 Flight Booking App
-- SkyScanner API integration
-- Advanced filtering & pricing logic
-- Real-time notifications
-
-### 🔹 IoT Healthcare Platform
-- MQTT + WebRTC integration
-- Real-time monitoring for 200+ patients
-
-### 🔹 E-Learning Platform
-- 600K+ downloads
-- 115M+ learning hours
-- Video streaming optimization
-
----
 
 ## 📊 Strengths
 
