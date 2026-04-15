@@ -6,15 +6,16 @@
 ## 🚀 About Me
 
 - 🔭 Building scalable mobile & web applications
-- 🧠 Strong focus on **System Design & Architecture**
+- 🧠 Focused on **System Design & Architecture**
 - ⚡ Specialized in **Flutter + Clean Architecture**
-- 🌍 Experience in **Mobile (iOS/Android) + Web**
-- 🧪 Advocate of **TDD & Clean Code**
+- 🌍 Working across **Mobile + Web (Next.js)**
+- 🧪 Strong in **TDD & performance optimization**
 - 👥 Mentoring developers & leading teams
 
-📄 Based on experience: 6+ years building production-grade apps :contentReference[oaicite:0]{index=0}
+📄 6+ years of production experience :contentReference[oaicite:0]{index=0}
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -55,18 +56,26 @@
 
 ---
 
+## 🌐 Connect With Me
 
-## 📊 Strengths
-
-- 🧠 System Design (scalable architecture)
-- ⚡ Performance Optimization
-- 🔄 End-to-End Product Development
-- 🧩 Complex Feature Engineering
-- 👨‍💻 Clean, maintainable code
+<p align="center">
+  <a href="https://bsky.app/profile/mubashirahmed.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-3b82f6?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mubashir-ahmad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mubashirspam">
+    <img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:getmemubashir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f43f5e?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mubashirspam&show_icons=true&theme=tokyonight" />
@@ -75,20 +84,7 @@
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/mubashir-ahmad/
-- 📧 Email: getmemubashir@gmail.com
-
----
-
 ## 💡 Philosophy
 
 > Build scalable systems, not just features.  
-> Focus on long-term maintainability over short-term hacks.
-
----
-
-## ⚡ Fun Fact
-
-I turn complex ideas into production-ready apps 🚀
+> Prioritize maintainability over shortcuts.
